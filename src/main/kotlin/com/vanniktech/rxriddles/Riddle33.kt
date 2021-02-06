@@ -1,7 +1,7 @@
 package com.vanniktech.rxriddles
 
-import io.reactivex.rxjava3.core.Completable
-import io.reactivex.rxjava3.core.Scheduler
+import io.reactivex.Completable
+import io.reactivex.Scheduler
 
 object Riddle33 {
   /**

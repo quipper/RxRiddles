@@ -1,6 +1,6 @@
 package com.vanniktech.rxriddles
 
-import io.reactivex.rxjava3.core.Observable
+import io.reactivex.Observable
 
 object Riddle10 {
   /**

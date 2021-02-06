@@ -2,8 +2,8 @@ package com.vanniktech.rxriddles
 
 import com.vanniktech.rxriddles.solutions.Riddle11Solution
 import com.vanniktech.rxriddles.tools.RxRule
-import io.reactivex.rxjava3.core.Observable
-import io.reactivex.rxjava3.core.Single
+import io.reactivex.Observable
+import io.reactivex.Single
 import org.junit.Rule
 import org.junit.Test
 import java.util.concurrent.TimeUnit.MILLISECONDS

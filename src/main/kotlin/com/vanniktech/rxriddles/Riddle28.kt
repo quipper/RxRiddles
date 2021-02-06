@@ -1,6 +1,6 @@
 package com.vanniktech.rxriddles
 
-import io.reactivex.rxjava3.core.Completable
+import io.reactivex.Completable
 
 object Riddle28 {
   /**

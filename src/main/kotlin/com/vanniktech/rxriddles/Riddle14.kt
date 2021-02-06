@@ -1,6 +1,6 @@
 package com.vanniktech.rxriddles
 
-import io.reactivex.rxjava3.core.Single
+import io.reactivex.Single
 
 object Riddle14 {
   /**

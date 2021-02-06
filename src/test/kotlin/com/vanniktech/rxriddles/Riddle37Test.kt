@@ -1,7 +1,7 @@
 package com.vanniktech.rxriddles
 
 import com.vanniktech.rxriddles.solutions.Riddle37Solution
-import io.reactivex.rxjava3.core.Observable
+import io.reactivex.Observable
 import org.junit.Test
 import java.io.IOException
 

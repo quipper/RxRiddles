@@ -1,6 +1,6 @@
 package com.vanniktech.rxriddles.tools
 
-import io.reactivex.rxjava3.observers.TestObserver
+import io.reactivex.observers.TestObserver
 
 fun <T> TestObserver<T>.awaitTerminalEvent(): Boolean {
     return try {

@@ -1,7 +1,7 @@
 package com.vanniktech.rxriddles
 
 import com.vanniktech.rxriddles.solutions.Riddle22Solution
-import io.reactivex.rxjava3.core.Observable
+import io.reactivex.Observable
 import org.junit.Test
 
 /** Solution [Riddle22Solution] */

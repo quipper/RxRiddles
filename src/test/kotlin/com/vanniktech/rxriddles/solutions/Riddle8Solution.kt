@@ -1,6 +1,6 @@
 package com.vanniktech.rxriddles.solutions
 
-import io.reactivex.rxjava3.core.Observable
+import io.reactivex.Observable
 import java.util.concurrent.TimeUnit.MILLISECONDS
 
 object Riddle8Solution {
